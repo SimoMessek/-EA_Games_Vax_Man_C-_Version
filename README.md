@@ -4,7 +4,7 @@ The second challenge of the Electronic Arts Software Engineering Virtual Experie
 
 ![Vax_man](https://github.com/SimoMessek/EA_Games_Vax_Man_CPP_Version/blob/main/wabv5yu2hw361.gif?raw=true)
 
-Python is an excellent development language. But it has performance limits. When implementing more resource-intensive games, the industry standards are C++ and C#. The choice of language will depend on the platform you use. EA work is done on C++ That is why we have chosen it.
+Python is an excellent development language. But it has performance limits. When implementing more resource-intensive games, the industry standards are C++ and C#. The choice of language will depend on the platform you use. EA work is done on C++ That is why we have chosen it besides being more of a C++ user considering it's the main language used within Unreal Engine.
 
 To recap, we are building a new game called Vax-Man. The rules are similar to Pac-Man with several notable exceptions:
 
