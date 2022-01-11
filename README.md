@@ -17,7 +17,7 @@ To recap, we are building a new game called Vax-Man. The rules are similar to Pa
 
 <b>Dependencies</b>
 <ul>
-  <li>Visual Studio Code or you prefered C++ IDE</li>
+  <li>Visual Studio Code or your preferred C++ IDE</li>
   <li>Qt Library</li>
 </ul>
 
